@@ -55,7 +55,7 @@ At Meritech Japan, I work across software development and Japanese–English tec
 
 ### 🚀 Featured Project
 
-#### [OpsBridge — Incident Management Platform](YOUR_OPSBRIDGE_REPOSITORY_URL)
+#### [OpsBridge — Incident Management Platform]
 
 A production-style incident-management platform inspired by PagerDuty, designed to help engineering teams declare incidents, coordinate response, track SLA deadlines, and stay synchronized through real-time updates.
 
