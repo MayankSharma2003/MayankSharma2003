@@ -20,7 +20,7 @@ Software Engineer | Java · Spring Boot · React | Full-Stack | Bilingual Techni
 
 ### 👨‍💻 About
 
-Software Engineer based in Japan with **1.75+ years of professional experience**, working across full-stack development, system analysis, and bilingual technical coordination.
+Software Engineer based in Japan with **1.5+ years of professional experience**, working across full-stack development, system analysis, and bilingual technical coordination.
 
 My primary focus is **Java, Spring Boot, React, TypeScript, NodeJs, PostgreSQL, Docker, and AWS**. I enjoy building systems end to end — from understanding requirements and designing the solution to implementation, testing, deployment, and technical coordination.
 
